@@ -1,0 +1,25 @@
+{
+  "name": "react-native-fanbox-login",
+  "version": "1.0.0",
+  "description": "fanbox-login-package",
+  "main": "index.js",
+  "scripts": {
+    "test": "tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krupalagravat/fanbox-login.git"
+  },
+  "keywords": [
+    "fanbox",
+    "login",
+    "test",
+    "package"
+  ],
+  "author": "krupal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krupalagravat/fanbox-login/issues"
+  },
+  "homepage": "https://github.com/krupalagravat/fanbox-login#readme"
+}
